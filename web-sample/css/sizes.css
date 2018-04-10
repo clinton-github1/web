@@ -1,0 +1,223 @@
+@media only screen and (max-width:1200px)
+{
+    
+    
+    
+}
+
+@media only screen and (max-width:1023px)
+{
+    
+    ul.main-nav{
+    
+   list-style-type: none;
+    margin-left: 40%;
+   
+}
+
+    .logo{
+    
+    margin-left: 10%;
+    }
+    
+    
+    h1{
+     
+    font-size: 200%;   
+}   
+    
+}
+
+@media only screen and (max-width:767px)
+{
+    
+    
+    .logo{
+    
+    margin-left: 3%;
+    }
+    
+   
+    ul.main-nav{
+        
+    margin-left: 30%;
+    padding: 5px;
+   
+}
+
+li.main-nav{
+    
+    font-size:80%;
+}
+    
+    
+    h2{
+    
+    font-size: 150%;
+     
+}
+    
+    
+    td.footer-elements1{
+    
+    float: left;
+    margin-left: 0%;
+}
+
+td.footer-elements2{
+    
+    float: right;
+    margin-right: 0%;
+}
+    
+   ul.footer-elements1{
+    
+    padding: 5px;
+   
+}
+
+li.footer-elements1{
+    
+    font-size:60%;
+}
+    
+     ul.footer-elements2{
+    
+    padding: 5px;
+   
+}
+
+li.footer-elements2{
+    
+    font-size:70%;
+}
+
+    td.footer-elements3{
+    
+    font-size: 80%;
+}
+    
+    
+    th img{
+    
+    border: solid;
+    height: 30%;
+    width: 40%;
+   
+}
+    
+    
+    
+}
+
+
+@media only screen and (max-width:480px)
+{
+    
+   .logo{
+    
+    margin-left: 1%;
+    margin-top: 1%;
+    float: left;
+       
+}
+
+.logo img{
+    
+    border-radius: 200px;
+    height: 15%;
+    width: 15%;
+    
+}
+
+    .head{
+    top:40%;
+    left: 8%;
+    position: absolute;
+}
+
+    
+    
+h1{
+
+    font-size: 120%;
+  
+}
+    
+    .motto{
+    
+    
+    font-size: 80%;
+}
+
+    
+    
+    ul.main-nav{
+    
+    margin-left: 75%;
+    
+}
+
+li.main-nav{
+    
+    float: right;
+    margin: 0px 20px 5px 0px;
+    font-size:100%;
+}
+   
+     h2{
+    
+    font-size: 120%;
+     
+}
+    
+    
+    #activities p{
+     margin: 2% 10%;
+    font-size: 100%;
+        letter-spacing: 1px;
+    
+}
+   
+    
+    body{
+    font-size: 16px;
+        letter-spacing: 1px;
+}
+    
+    
+    th img{
+    
+    border: solid;
+    height: 20%;
+    width: 30%;
+   
+}
+    
+    #contact{
+  
+    display: block;  
+}
+    
+    table.contact1{
+    
+    width: 70%;
+    margin-left: 10%;
+    padding-left: 0%;
+    height: 100vh;
+
+   
+}
+
+table.contact2{
+    
+    width: 70%;
+    margin-left: 10%;
+    padding-left: 0%;
+    height: 300px;
+
+   
+}
+    
+    
+}
